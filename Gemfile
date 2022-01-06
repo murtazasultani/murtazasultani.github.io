@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.2.1"
-gem 'jekyll-postcss'
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
