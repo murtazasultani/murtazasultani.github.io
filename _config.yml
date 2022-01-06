@@ -12,9 +12,6 @@ github_username: the-gizmo-dojo
 plugins:
   - jekyll-feed
   - jekyll-postcss
-  
-sass:
-  style: compressed
 
 defaults:
   -
