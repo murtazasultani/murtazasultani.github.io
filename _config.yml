@@ -13,12 +13,6 @@ permalink: /:title
 plugins:
   - jekyll-feed
 
-postcss:
-  cache: false
-  
-sass:
-  style: compressed
-
 defaults:
   -
     scope:
