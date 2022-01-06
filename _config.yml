@@ -22,8 +22,3 @@ defaults:
 
 exclude:
 - README.md
-- package-lock.json
-- yarn.lock
-- package.json
-- postcss.config.js
-- tailwind.config.js
