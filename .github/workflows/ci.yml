@@ -1,4 +1,4 @@
-name: Jekyll site CI
+name: Website Test Suites
 
 on:
   push:
@@ -14,7 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Install Dependencies
-       run: npm install
+       run: yarn install
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
