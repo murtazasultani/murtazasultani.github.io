@@ -8,7 +8,6 @@ repository: https://github.com/the-gizmo-dojo/the-gizmo-dojo.github.io
 twitter_username: TheGizmoDojo
 github_username: the-gizmo-dojo
 
-permalink: /:title
 
 plugins:
   - jekyll-feed
