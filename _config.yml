@@ -20,6 +20,13 @@ postcss:
 sass:
   style: compressed
 
+defaults:
+  -
+    scope:
+      path: ""
+    values: 
+      layout: "default"
+
 exclude:
 - README.md
 - package-lock.json
