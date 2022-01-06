@@ -12,13 +12,6 @@ github_username: the-gizmo-dojo
 plugins:
   - jekyll-feed
 
-defaults:
-  -
-    scope:
-      path:
-    values: 
-      layout: "default"
-
 exclude:
 - README.md
 - package-lock.json
